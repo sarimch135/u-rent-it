@@ -1,0 +1,6 @@
+{
+  "name": "U-Rent-It Storage Units",
+  "description": "Next.js web application for U-Rent-It Storage Units in Canton, Ohio with Server-Side Rendering (SSR), Static Generation (SSG) for SEO pages, interactive 3D storage visualizer, verified pricing, facility details, and instant phone booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
